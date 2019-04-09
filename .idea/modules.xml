@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SelectWordTextView.iml" filepath="$PROJECT_DIR$/SelectWordTextView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/selecttextview/selecttextview.iml" filepath="$PROJECT_DIR$/selecttextview/selecttextview.iml" />
+    </modules>
+  </component>
+</project>
